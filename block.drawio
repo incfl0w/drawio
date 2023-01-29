@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-29T12:41:24.105Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="QPGt1Gz55Li8CEciokBn" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-29T12:44:21.859Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="-bv9ToqDi7pVCazoimNo" version="20.8.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1026" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,11 +53,6 @@
         <mxCell id="6Zi1pDQ_bdo4GR94H87n-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6Zi1pDQ_bdo4GR94H87n-7" target="6Zi1pDQ_bdo4GR94H87n-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6Zi1pDQ_bdo4GR94H87n-18" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="6Zi1pDQ_bdo4GR94H87n-17">
-          <mxGeometry x="-0.0074" y="1" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6Zi1pDQ_bdo4GR94H87n-7" value="Calculate final price" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="542.5" y="620" width="120" height="60" as="geometry" />
         </mxCell>
@@ -72,11 +67,14 @@
         <mxCell id="6Zi1pDQ_bdo4GR94H87n-8" value="Does customer approve order?" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="730" y="612.5" width="150" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="6Zi1pDQ_bdo4GR94H87n-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6Zi1pDQ_bdo4GR94H87n-9" target="6Zi1pDQ_bdo4GR94H87n-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6Zi1pDQ_bdo4GR94H87n-9" value="Create order" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="745" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Zi1pDQ_bdo4GR94H87n-11" value="Decrease bonuses quantity" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="745" y="835" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6Zi1pDQ_bdo4GR94H87n-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6Zi1pDQ_bdo4GR94H87n-21" target="6Zi1pDQ_bdo4GR94H87n-4">
           <mxGeometry relative="1" as="geometry" />
@@ -89,6 +87,9 @@
         </mxCell>
         <mxCell id="6Zi1pDQ_bdo4GR94H87n-22" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="225" y="610" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Zi1pDQ_bdo4GR94H87n-27" value="Did customer pay by bonuses?" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="737.5" y="840" width="135" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
