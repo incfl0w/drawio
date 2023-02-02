@@ -1,92 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T16:57:24.837Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Grei6zBLwPCZGC8oePd5" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T17:02:57.326Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Zk_FJU3SulZByeMR0a98" version="20.8.15" type="github">
   <diagram name="Page-1" id="a2duEnbXzy0IIAWoKXlF">
     <mxGraphModel dx="2208" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-1" value="Monobank&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="90" width="120" height="30" as="geometry" />
+          <mxGeometry x="354" y="70" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-2" value="Transactions" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="160" width="120" height="30" as="geometry" />
+          <mxGeometry x="276.5" y="140" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-3" value="Deposit / Credit" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="160" width="120" height="30" as="geometry" />
+          <mxGeometry x="-16.5" y="140" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-4" value="Customer service" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="160" width="120" height="30" as="geometry" />
+          <mxGeometry x="570.5" y="140" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-5" value="Bill payment" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="160" width="120" height="30" as="geometry" />
+          <mxGeometry x="716.5" y="140" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-7" value="Charity" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="250" width="120" height="30" as="geometry" />
+          <mxGeometry x="716.5" y="260" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-8" value="Utility payment" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="300" width="120" height="30" as="geometry" />
+          <mxGeometry x="716.5" y="310" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-9" value="Purchases" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="350" width="120" height="30" as="geometry" />
+          <mxGeometry x="716.5" y="360" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-11" value="Cashback" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="160" width="120" height="30" as="geometry" />
+          <mxGeometry x="423.5" y="140" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-12" value="Account Management" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-67" y="160" width="120" height="30" as="geometry" />
+          <mxGeometry x="-163.5" y="140" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-14" value="Transfer money" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="210" width="120" height="30" as="geometry" />
+          <mxGeometry x="276.5" y="210" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-16" value="Generate report" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="210" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AsIdFK6F4DD6XL9qQPAL-17" value="Generate transaction report" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="370" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AsIdFK6F4DD6XL9qQPAL-18" value="Statistic" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="430" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AsIdFK6F4DD6XL9qQPAL-19" value="Statistic" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="480" width="120" height="30" as="geometry" />
+          <mxGeometry x="863.5" y="210" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-22" value="Take credit" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="210" width="120" height="30" as="geometry" />
+          <mxGeometry x="129.5" y="210" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-24" value="Open payment by part" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="260" width="120" height="30" as="geometry" />
+          <mxGeometry x="130" y="260" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-27" value="Open deposit" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="210" width="120" height="30" as="geometry" />
+          <mxGeometry x="-16.5" y="210" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-29" value="Choose category" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="220" width="120" height="30" as="geometry" />
+          <mxGeometry x="423.5" y="210" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-31" value="Withdraw cashback" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="280" width="120" height="30" as="geometry" />
+          <mxGeometry x="423.5" y="260" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-32" value="Pay bills" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="210" width="120" height="30" as="geometry" />
+          <mxGeometry x="716.5" y="210" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-33" value="Reporting" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="160" width="120" height="30" as="geometry" />
+          <mxGeometry x="863.5" y="140" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-34" value="Analyse account" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="260" width="120" height="30" as="geometry" />
+          <mxGeometry x="863.5" y="260" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-35" value="Open account" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-67" y="220" width="120" height="30" as="geometry" />
+          <mxGeometry x="-163.5" y="210" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-36" value="Close account" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-67" y="275" width="120" height="30" as="geometry" />
+          <mxGeometry x="-163.5" y="260" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-37" value="Update account info" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-67" y="330" width="120" height="30" as="geometry" />
+          <mxGeometry x="-163.5" y="310" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-38" value="Credit" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="160" width="120" height="30" as="geometry" />
+          <mxGeometry x="129.5" y="140" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-39" value="Receive money" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="260" width="120" height="30" as="geometry" />
+          <mxGeometry x="276.5" y="260" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AsIdFK6F4DD6XL9qQPAL-40" value="Provide support for customer" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570.5" y="210" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
