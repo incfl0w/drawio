@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T14:44:05.760Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="419UNJzFGp4S6qwrYKpM" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T14:45:32.608Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ZlfQlGfJ33zYx2IhYSGe" version="20.8.15" type="github">
   <diagram name="Page-1" id="a2duEnbXzy0IIAWoKXlF">
     <mxGraphModel dx="1680" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-3" value="Deposit / Credit" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="71" y="160" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AsIdFK6F4DD6XL9qQPAL-4" value="Credits" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AsIdFK6F4DD6XL9qQPAL-4" value="Customer service" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="160" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-5" value="Bill payment" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -37,8 +37,8 @@
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-14" value="Transfer money" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="220" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AsIdFK6F4DD6XL9qQPAL-16" value="Transaction History" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="320" width="120" height="30" as="geometry" />
+        <mxCell id="AsIdFK6F4DD6XL9qQPAL-16" value="Generate report" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="210" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-17" value="Generate transaction report" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="370" width="120" height="30" as="geometry" />
@@ -66,6 +66,12 @@
         </mxCell>
         <mxCell id="AsIdFK6F4DD6XL9qQPAL-32" value="Pay bills" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AsIdFK6F4DD6XL9qQPAL-33" value="Reporting" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AsIdFK6F4DD6XL9qQPAL-34" value="Analyse account" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="260" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
