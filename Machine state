@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T17:05:33.277Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.16" etag="yd0fa0P2C13y9D6EGo9j" type="github"><diagram name="Page-1" id="xz5EWxPdQAAsr6PHe215">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-13T17:17:52.234Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="nTBMN2NmeMWWztRpru06" version="20.8.16" type="github">
+  <diagram name="Page-1" id="xz5EWxPdQAAsr6PHe215">
+    <mxGraphModel dx="1111" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eak3DGKFnDKh8StXE9dc-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="130" y="140" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eak3DGKFnDKh8StXE9dc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eak3DGKFnDKh8StXE9dc-3" target="eak3DGKFnDKh8StXE9dc-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eak3DGKFnDKh8StXE9dc-3" value="New" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="180" y="130" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eak3DGKFnDKh8StXE9dc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eak3DGKFnDKh8StXE9dc-5" target="eak3DGKFnDKh8StXE9dc-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eak3DGKFnDKh8StXE9dc-16" value="Paid" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eak3DGKFnDKh8StXE9dc-14">
+          <mxGeometry x="-0.1983" y="1" relative="1" as="geometry">
+            <mxPoint x="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eak3DGKFnDKh8StXE9dc-18" value="The debt is repaid&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eak3DGKFnDKh8StXE9dc-5" target="eak3DGKFnDKh8StXE9dc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eak3DGKFnDKh8StXE9dc-5" value="Need to be paid" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="180" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eak3DGKFnDKh8StXE9dc-6" value="Archived" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="390" y="410" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eak3DGKFnDKh8StXE9dc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eak3DGKFnDKh8StXE9dc-7" target="eak3DGKFnDKh8StXE9dc-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eak3DGKFnDKh8StXE9dc-7" value="Approved" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="180" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eak3DGKFnDKh8StXE9dc-12" value="Month passed&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="270" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eak3DGKFnDKh8StXE9dc-13" value="Waiting new month" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="180" y="410" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eak3DGKFnDKh8StXE9dc-17" value="Not enough money for pay" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;" edge="1" parent="1" source="eak3DGKFnDKh8StXE9dc-5" target="eak3DGKFnDKh8StXE9dc-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
